@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DeslocamentoAPI.Domain",
+    "\\DeslocamentoAPI.Domain\\obj",
+    "\\DeslocamentoAPI.Domain\\obj\\Debug",
+    "\\DeslocamentoAPI.WebApp",
+    "\\DeslocamentoAPI.WebApp\\Controllers",
+    "\\DeslocamentoAPI.WebApp\\obj",
+    "\\DeslocamentoAPI.WebApp\\obj\\Debug",
+    "\\DeslocamentoAPI.WebApp\\obj\\Debug\\net6.0",
+    "\\DeslocamentoAPI.WebApp\\Properties",
+    "\\obj"
+  ],
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0ba44ae3-22a5-4b22-999d-4a3a2df19d30": {
+      "ProjectGuid": "0ba44ae3-22a5-4b22-999d-4a3a2df19d30",
+      "DisplayName": "DeslocamentoAPI.Domain",
+      "ColorIndex": 0
+    },
+    "347d8def-a347-49bb-8bc8-599b16bf41e3": {
+      "ProjectGuid": "347d8def-a347-49bb-8bc8-599b16bf41e3",
+      "DisplayName": "Context",
+      "ColorIndex": 1
+    },
+    "8fc5ba0c-b94c-4e2d-a175-973f96125e55": {
+      "ProjectGuid": "8fc5ba0c-b94c-4e2d-a175-973f96125e55",
+      "DisplayName": "Mapping",
+      "ColorIndex": 2
+    },
+    "f3f26341-89bd-4d3d-b5ef-c55f97c742d4": {
+      "ProjectGuid": "f3f26341-89bd-4d3d-b5ef-c55f97c742d4",
+      "DisplayName": "DeslocamentoAPI.Data",
+      "ColorIndex": 3
+    },
+    "6e9df48a-5b7d-4493-8af0-8e96b9169e3c": {
+      "ProjectGuid": "6e9df48a-5b7d-4493-8af0-8e96b9169e3c",
+      "DisplayName": "DeslocamentoAPI.WebAPI",
+      "ColorIndex": 4
+    },
+    "58b97d84-5975-495c-bf14-d105184466d0": {
+      "ProjectGuid": "58b97d84-5975-495c-bf14-d105184466d0",
+      "DisplayName": "DeslocamentoAPI.Application",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
